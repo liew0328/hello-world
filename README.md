@@ -1,2 +1,5 @@
 # hello-world
-Beginner lesson
+
+Hi Humans!
+
+Hubot here, I like Node. js Coffeescript.
