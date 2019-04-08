@@ -1,5 +1,5 @@
 # hello-world
 
-Hi Humans!
+Hi Guys!
 
-Hubot here, I like Node. js Coffeescript.
+Jack here, I'm new to programming.
