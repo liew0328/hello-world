@@ -1,2 +1,5 @@
 # hello-world
-Beginner lesson
+
+Hi Guys!
+
+Jack here, I'm new to programming.
